@@ -1,7 +1,7 @@
 name: 🐞 Bug Report
 description: File a bug report here
-title: "[BUG]: "
-labels: ["bug"]
+title: "[RWORK-XXXX]-"
+labels: ["bug/feature name"]
 assignees: ["assign-name"]
 body:
   - type: markdown
